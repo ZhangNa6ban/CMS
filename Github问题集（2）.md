@@ -1,4 +1,4 @@
-1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
+##1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
   New repository(新存储库)  Import repository（导入存储库）  New gist（新要点） New organization（新组织）
 2.如何能将仓库中的html文件直接解析成页面？
   settings->source->master branch

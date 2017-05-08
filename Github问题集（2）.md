@@ -1,24 +1,27 @@
-## 1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-  New repository(新存储库)  Import repository（导入存储库）  New gist（新要点） New organization（新组织）
-2.如何能将仓库中的html文件直接解析成页面？
+**1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？**
+  - New repository(新存储库)  
+  - Import repository（导入存储库）  
+  - New gist（新要点） 
+  - New organization（新组织）
+**2.如何能将仓库中的html文件直接解析成页面？**
   settings->source->master branch
-3.如何删除仓库
+**3.如何删除仓库**
   打开要删除的仓库->settings->删除此存储库
-4.Bash是什么操作系统的命令
+**4.Bash是什么操作系统的命令**
   Linux的操作系统
-5.Pwd是什么命令
+**5.Pwd是什么命令**
   打印当前工作目录
-6.Cd是什么命令
+**6.Cd是什么命令**
   改变目录
-7.Echo是什么命令
+**7.Echo是什么命令**
   打印输出
-8.配置git用户名的命令
+**8.配置git用户名的命令**
   git config -global user.name=""
-9.配置邮箱的命令
+**9.配置邮箱的命令**
   git config -global user.email=""
-10.命令行换行方式
+**10.命令行换行方式**
    \
-11.命令行终结方式
+**11.命令行终结方式**
    ctrl+c
 12.使用命令行比GUI方式有何优势
    命令行可以解决很多问题
